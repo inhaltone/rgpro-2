@@ -1,6 +1,7 @@
-import * as THREE from '../build/three.module.js';
+/*import * as THREE from '../build/three.module.js';
 import {OrbitControls} from '../build/OrbitControls.js';
 import {GUI} from '../build/dat.gui.module.js';
+*/
 var Shaders = {
     'earth' : {
       uniforms: {
