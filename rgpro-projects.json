@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Athens",
+    "id":"project-1",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -61.89111299999996,
+      16.98971899999998
+    ],
+    "max": [
+      -61.66638899999998,
+      17.724998000000028
+    ],
+    "area": 44,
+    "lat": 37.984889 ,
+    "lon": 23.716444,
+    "population": {
+      "2005": 83039
+    }
+  },
+  {
+    "name": "Bradernburg Gate Berlin",
+    "id":"project-2",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 52.517496,
+    "lon": 13.377916
+   
+  },
+  {
+    "name": "Candice Breitz - Venice",
+    "id":"project-3",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 45.442530,
+    "lon": 12.339949
+   
+  },
+  {
+    "name": "Candice Breitz - Santa Cruz",
+    "id":"project-4",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 36.959977,
+    "lon": -122.017955
+   
+  },
+  {
+    "name": "Tate Modern - London, UK",
+    "id":"project-5",
+    "hyperlink":"https://hypermedium.org",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 51.507751,
+    "lon":  -0.099334
+   
+  },
+  {
+    "name": "South Kona - Hawai [Big Kahuna Burger]",
+    "id":"project-6",
+    "hyperlink":"https://hypermedium.org",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 19.584172,
+    "lon":  -155.654292
+   
+  },
+  {
+    "name": "MACBA - Museu d'Art Contemporani de Barcelona, Spain",
+    "id":"project-7",
+    "hyperlink":"https://hypermedium.org",
+    "datatarget":"#exampleModal",
+    "datatoggle":"modal",
+    "min": [
+      -8.667223,
+      18.976387
+    ],
+    "max": [
+      11.986475,
+      37.091385
+    ],
+    "area": 238174,
+    "lat": 41.383409,
+    "lon":  2.166856
+   
+  }
+  
+  
+
+]
