@@ -316,7 +316,7 @@ scene.add(mesh);
   }
   let countryInfos;
   async function loadCountryData() {
-    countryInfos = await loadJSON('data/rgpro-projects.json');  /* threejsfundamentals: url */
+    countryInfos = await loadJSON('resources/data/rgpro-projects.json');  /* threejsfundamentals: url */
     const lonFudge = Math.PI * 1.5;
     const latFudge = Math.PI;
     // these helpers will make it easy to position the boxes
